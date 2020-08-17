@@ -11,9 +11,9 @@ Some information about me!
 I am currently working full time and taking graduate school courses.
 
 ### Favorite Teams
-Collegiate | Basketball | Football   | Hockey     | Baseball
----------- | ---------- | ---------- | ---------- | ----------
-UNC-CH     | Hornets    | Panthers   | Hurricanes | Yankees
+Collegiate | Basketball | Football   | Hockey     | Baseball  
+---------- | ---------- | ---------- | ---------- | ----------  
+UNC-CH     | Hornets    | Panthers   | Hurricanes | Yankees  
 
 ### Hobbies
 * crafts
@@ -33,6 +33,6 @@ UNC-CH     | Hornets    | Panthers   | Hurricanes | Yankees
 [kmlopez@ncsu.edu](mailto:kmlopez@ncsu.edu)
 
 #### Code Chunk Practice
-```{r}
+```{r, eval=TRUE}
 Iris has `r length(iris.Sepal.Length)` observations.
 ```
