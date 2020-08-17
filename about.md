@@ -12,7 +12,7 @@ I am currently working full time and taking graduate school courses.
 
 ### Favorite Teams
 Collegiate | Basketball | Football   | Hockey     | Baseball  
----------- | ---------- | ---------- | ---------- | ----------  
+------------- | ------------- | ------------- | ------------- | -------------  
 UNC-CH     | Hornets    | Panthers   | Hurricanes | Yankees  
 
 ### Hobbies
