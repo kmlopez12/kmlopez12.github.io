@@ -33,6 +33,6 @@ I am currently working full time and taking graduate school courses.
 [kmlopez@ncsu.edu](mailto:kmlopez@ncsu.edu)
 
 #### Code Chunk Practice
-```{r, eval=TRUE}
+```{r iris}
 Iris has `r length(iris.Sepal.Length)` observations.
 ```
