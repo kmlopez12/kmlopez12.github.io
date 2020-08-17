@@ -34,5 +34,5 @@ I am currently working full time and taking graduate school courses.
 
 #### Code Chunk Practice
 ```{r iris, eval=TRUE}
-Iris has `r length(iris.Sepal.Length)` observations.
+Iris has `r length(iris$Sepal.Length)` observations.
 ```
