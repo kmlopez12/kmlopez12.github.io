@@ -4,12 +4,35 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Some information about me!
 
-### More Information
+### A Little Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am currently working full time and taking graduate school courses.
 
-### Contact me
+### Favorite Teams
+Collegiate | Basketball | Football   | Hockey     | Baseball
+---------- | ---------- | ---------- | ---------- | ----------
+UNC-CH     | Hornets    | Panthers   | Hurricanes | Yankees
 
-[email@domain.com](mailto:email@domain.com)
+### Hobbies
+* crafts
+    + crocheting
+    + sewing
+* puzzles
+* craft beer
+* cooking
+* sports
+    + soccer
+    + volleyball
+    + frisbee golf
+* learning
+
+### Email Address
+
+[kmlopez@ncsu.edu](mailto:kmlopez@ncsu.edu)
+
+#### Code Chunk Practice
+```{r}
+Iris has `r length(iris.Sepal.Length)` observations.
+```
