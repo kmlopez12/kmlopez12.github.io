@@ -8,7 +8,7 @@ Some information about me!
 
 ### A Little Information
 
-I am currently working full time and taking graduate school courses.
+I am currently working full time and taking two graduate school courses.
 
 ### Favorite Teams
   
