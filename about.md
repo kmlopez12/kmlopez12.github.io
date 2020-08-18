@@ -34,7 +34,8 @@ I am currently working full time and taking graduate school courses.
 [kmlopez@ncsu.edu](mailto:kmlopez@ncsu.edu)
 
 #### Code Chunk Practice
-```{r iris}
-r <- length(iris$Sepal.Length)
-r
+```{r iris}  
+r <- length(iris$Sepal.Length)  
+r  
+#this renders correctly in RStudio
 ```
